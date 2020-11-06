@@ -1,0 +1,18 @@
+npx create-react-app todo_list
+npm install react-router
+npm install react-router-dom
+npm install classnames
+npm install axios
+npm install react-svg
+npm install json-server
+
+
+
+
+
+npm start
+json-server --watch ./src/assets/db.json --port=3001
+
+
+
+как добавить скрытие при клике мимо

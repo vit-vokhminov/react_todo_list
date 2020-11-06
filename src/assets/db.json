@@ -1,0 +1,112 @@
+{
+  "lists": [
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 2
+    },
+    {
+      "name": "Разное",
+      "colorId": 6,
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 4,
+      "text": "O'Really - React и Redux функциональная веб-разработка",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "listId": 4,
+      "text": "1. K.Simpson - Вы не знаете JS. Up & Going (Приступим)",
+      "completed": true,
+      "id": 11
+    },
+    {
+      "listId": 4,
+      "text": "2. K.Simpson - Вы не знаете JS. Scope & Closures  (Замыкания и объекты)",
+      "completed": true,
+      "id": 12
+    },
+    {
+      "listId": 4,
+      "text": "3. K.Simpson - Вы не знаете JS. this & Object Prototypes (this и прототипы) 2019",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "listId": 4,
+      "text": "4. K.Simpson - Вы не знаете JS. Типы и грамматические конструкции (Types & Grammar) 2019",
+      "completed": true,
+      "id": 14
+    },
+    {
+      "listId": 4,
+      "text": "5. K.Simpson - Вы не знаете JS. Async & Performance (Асинхронная обработка и оптимизация) 2019",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "listId": 4,
+      "text": "6. K.Simpson - Вы не знаете JS. ES6 and Beyond (ES6 и не только) 2017",
+      "completed": true,
+      "id": 16
+    },
+    {
+      "listId": 5,
+      "text": "111",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "listId": 5,
+      "text": "222",
+      "completed": false,
+      "id": 18
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
